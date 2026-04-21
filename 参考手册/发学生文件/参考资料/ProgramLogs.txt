@@ -1,0 +1,6 @@
+[2026-03-21 22:44:Program Success:FFFFFFFFFFFFFFFFFFFFFFFF C:\Users\20127\Desktop\LVGL\Freertos_FatFS_LVGL\build\Release\Freertos_M4Demo.hex
+[2026-03-21 23:02:Program Success:FFFFFFFFFFFFFFFFFFFFFFFF C:\Users\20127\Desktop\LVGL\Freertos_FatFS_LVGL\build\Release\Freertos_M4Demo.hex
+[2026-03-26 10:37:Program Success:31FFD5054842333512840443 C:\Users\20127\Desktop\MyProject\OLED_UI_WeatherClock\cmake-build-debug-stm32\OLED_UITESTPRO.hex
+[2026-03-26 10:42:Program Success:31FFD5054842333512840443 C:\Users\20127\Desktop\MyProject\OLED_UI_WeatherClock\cmake-build-debug-stm32\OLED_UITESTPRO.hex
+[2026-04-14 11:22:Program Success:56FF6B064880575726591987 C:\Users\20127\Desktop\Project32\1.LED…¡À∏\Objects\Project.hex
+[2026-04-14 11:22:Program Success:56FF6B064880575726591987 C:\Users\20127\Desktop\Project32\1.LED…¡À∏\Objects\Project.hex
